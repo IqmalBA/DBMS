@@ -1,7 +1,8 @@
-Database Management System (DBMS) Projects
-A collection of MySQL database projects developed to solve real-world business problems across multiple industries, including manufacturing, education, recruitment, bakery operations, and community platforms.
+MySQL Database Projects
 
-Technologies
+A collection of MySQL database projects developed to model real-world business operations across various industries, including bakery management, agricultural production, online tutoring, recruitment, and mental health communities.
+
+🛠 Technologies
 MySQL
 SQL
 Relational Database Design
@@ -9,31 +10,33 @@ Database Normalization
 Entity Relationship Modeling (ERD)
 
 📂 Projects
-Bakery Enterprise Management System
-Comprehensive bakery database covering inventory, production, suppliers, employees, payroll, sales, and warehouse operations.
-Skills: SQL Triggers, Views, Inventory Management, Enterprise Database Design
 
-Bean Sprout Production Management System
-Production and financial management database for bean sprout cultivation businesses.
+🍞 Roti Database – Bakery Enterprise Management System
+A bakery management database covering inventory, production, suppliers, employees, payroll, sales transactions, and warehouse operations.
+Skills: SQL Triggers, SQL Views, Inventory Management, Enterprise Database Design
+
+🌱 Tauge Database – Bean Sprout Production Management System
+A production and financial management database for bean sprout cultivation businesses, including inventory tracking, production monitoring, revenue recording, and expense management.
 Skills: Production Tracking, Inventory Control, Revenue & Expense Management
 
-Online Tutoring Management System
-Database for managing tutors, students, tutoring packages, bookings, and payments.
+🎓 Gembel Database – Online Tutoring Management System
+A database for managing tutors, students, tutoring packages, class bookings, and payment transactions.
 Skills: Transaction Processing, User Management, Service Platform Design
 
-Recruitment Management System
-Job portal database supporting vacancy management, job applications, and candidate tracking.
-Skills: Workflow Modeling, User Management, SQL Development
+💼 Sparti Database – Recruitment Management System
+A job portal database supporting vacancy management, candidate applications, CV submissions, and recruitment workflows.
+Skills: Recruitment Workflow Modeling, User Management, SQL Development
 
-Mental Health Community Platform
-Authentication-focused database supporting secure user access and account management.
-Skills: Authentication Systems, RBAC, Security-Oriented Database Design
+🧠 Humind Database – Mental Health Community Platform
+A database focused on secure user authentication, access control, account management, and privacy-oriented community systems.
+Skills: Authentication Systems, Role-Based Access Control (RBAC), Security-Oriented Database Design
 
-Skills Demonstrated
+Skills Demonstrated :
 Relational Database Design
 SQL Query Development
 Database Normalization
 Business Process Modeling
 Inventory & Production Management
 Financial Data Management
+Recruitment System Design
 Authentication & Security Systems
